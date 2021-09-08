@@ -1,0 +1,4 @@
+Stewart Mckenzie 9/6/2021
+
+My solution uses a click event listener on the canvas, the function triggered when clicked  increments the number of vertices and selects point values based on the those numbers.
+I then rebind the buffer, update its data, and call the render function.
